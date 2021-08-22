@@ -16,7 +16,7 @@ Dataset Link: [Animal_Breed](https:// https://dockship.io/challenges/5fdcba715f3
 
 The dataset contains images of 37 breeds of cats and dogs from around the world. It contains two directories "TRAIN" and "TEST" with 5890 and 1500 images respectively. The training images are provided in the directory of the specific class itself. The names of the directories are "class labels" to be used for submission. The aim is to classify the "TEST" images into one of the 37 classes.
 
-Model_Building
+Model_Building:
 I followed the following steps to build a Convolutional neural network-
 Import Required library
 Initialize CNN and add a convolutional layer
